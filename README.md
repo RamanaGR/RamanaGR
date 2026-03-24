@@ -1,12 +1,15 @@
+<div align="center">
 # Hello, I'm Ramana! 👋
 
 **AI Engineer | RAG & Agentic AI Specialist**
 
 I architect enterprise-grade AI systems, focusing on **High-Precision RAG** for legal/healthcare data and **Autonomous Agent Swarms** for workforce automation. Currently, I am optimizing document intelligence pipelines at Optum.
 
-- 🔭 **Current Focus:** Scaling production RAG pipelines with hybrid vector-graph search.
-- ⚡ **Recent Milestone:** Achieved 95% entity extraction accuracy on complex legal contracts.
-- 🤖 **Tech Philosophy:** Engineering "Agentic" workflows to eliminate operational bottlenecks.
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramana-gangarao)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://r-ramana.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramanagangarao04@gmail.com)
 
 ---
 
@@ -25,44 +28,48 @@ I architect enterprise-grade AI systems, focusing on **High-Precision RAG** for 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
+### 💼 Career Journey
+
+[![Optum](https://img.shields.io/badge/Optum-AI_Engineer-E87722?style=for-the-badge&logo=unh&logoColor=white)](https://www.linkedin.com/in/ramana-gangarao/)
+<br/>
+[![Innovapath](https://img.shields.io/badge/Innovapath-AI_Engineer-0078D4?style=for-the-badge&logo=robot&logoColor=white)](https://www.linkedin.com/in/ramana-gangarao/)
+<br/>
+[![Wipro](https://img.shields.io/badge/Wipro-Developer_Analyst_I_/_MLOps-005128?style=for-the-badge&logo=wipro&logoColor=white)](https://www.linkedin.com/in/ramana-gangarao/)
+<br/>
+---
 
 ### 🚀 Featured AI Projects
 
 #### 🧠 [Knowledge Graph RAG](https://github.com/RamanaGR/knowledge-graph-rag)
 *Advanced RAG system using Graph Databases for multi-step reasoning.*
-- **Core Tech:** Neo4j, Python, LangChain, Vector Embeddings.
-- **Impact:** Solves the "hallucination" problem in standard RAG by enforcing structural relationships between data entities.
+ **Core Tech:** Neo4j, Python, LangChain, Vector Embeddings.
+ **Impact:** Solves the "hallucination" problem in standard RAG by enforcing structural relationships between data entities.
 
 #### 🤖 [LangGraph Agent Engineering](https://github.com/RamanaGR/langgraph-agent-engineering)
 *Production-ready multi-agent workflows with cyclic state management.*
-- **Core Tech:** LangGraph, OpenAI/Anthropic, Python.
-- **Impact:** Implements complex decision-making loops that allow AI agents to self-correct and iterate on tasks autonomously.
+ **Core Tech:** LangGraph, OpenAI/Anthropic, Python.
+ **Impact:** Implements complex decision-making loops that allow AI agents to self-correct and iterate on tasks autonomously.
 
 #### 📊 [NL2SQL Agent Pipeline](https://github.com/RamanaGR/nl2sql-agent-pipeline)
 *Natural Language interface for complex database querying.*
-- **Core Tech:** SQL, LLM Agents, Prompt Engineering.
-- **Impact:** Enables non-technical users to query relational databases using plain English with high schema-mapping accuracy.
+ **Core Tech:** SQL, LLM Agents, Prompt Engineering.
+ **Impact:** Enables non-technical users to query relational databases using plain English with high schema-mapping accuracy.
 
 #### 🎨 [AI T-Shirt Designer](https://github.com/RamanaGR/ai-tshirt-designer-teamsparsa)
 *End-to-end generative AI engine for custom apparel design.*
-- **Core Tech:** Stable Diffusion / DALL-E API, Full-stack Integration.
-- **Impact:** Bridges the gap between Creative AI and e-commerce by automating high-fidelity image generation for physical products.
+ **Core Tech:** Stable Diffusion / DALL-E API, Full-stack Integration.
+ **Impact:** Bridges the gap between Creative AI and e-commerce by automating high-fidelity image generation for physical products.
 
 #### 🛠 [AIAgent with LangChain](https://github.com/RamanaGR/AIAgent-with-LangChain)
 *The foundation for autonomous task execution and tool-use.*
-- **Core Tech:** LangChain, Tool-Calling, Zero-Shot React Agents.
+ **Core Tech:** LangChain, Tool-Calling, Zero-Shot React Agents.
 
 ---
 
-### 💼 Career Journey
-- **AI Engineer @ Optum** | *Focus: High-Precision RAG & Document Intelligence*
-- **AI Engineer @ Innovapath INC** | *Focus: Enterprise Agent Platforms (LangGraph/ADK)*
-- **Developer Analyst I / MLOps @ Wipro** | *Focus: Scalable Software Systems*
-
----
 
 ### 📊 GitHub Insights
 ![Ramana's Stats](https://github-readme-stats.vercel.app/api?username=RamanaGR&show_icons=true&theme=tokyonight&hide_border=true)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamanaGR&layout=compact&theme=tokyonight&hide_border=true)
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/ramana-gangarao/) | [Portfolio](https://ramanagr.github.io)
+</div>
