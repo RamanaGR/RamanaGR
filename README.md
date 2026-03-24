@@ -8,6 +8,12 @@ I architect enterprise-grade AI systems, focusing on **High-Precision RAG** for 
 - ⚡ **Recent Milestone:** Achieved 95% entity extraction accuracy on complex legal contracts.
 - 🤖 **Tech Philosophy:** Engineering "Agentic" workflows to eliminate operational bottlenecks.
 
+### 📬 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramana-gangarao)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://r-ramana.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramanagangarao04@gmail.com)
+
 ---
 
 ### 🛠 Technical Toolbox
@@ -65,4 +71,3 @@ I architect enterprise-grade AI systems, focusing on **High-Precision RAG** for 
 ![Ramana's Stats](https://github-readme-stats.vercel.app/api?username=RamanaGR&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamanaGR&layout=compact&theme=tokyonight&hide_border=true)
 
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/ramana-gangarao/) | [Portfolio](https://ramanagr.github.io)
