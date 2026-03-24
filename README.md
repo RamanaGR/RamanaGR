@@ -1,3 +1,4 @@
+<div align="center">
 # Hello, I'm Ramana! 👋
 
 **AI Engineer | RAG & Agentic AI Specialist**
@@ -69,5 +70,7 @@ I architect enterprise-grade AI systems, focusing on **High-Precision RAG** for 
 
 ### 📊 GitHub Insights
 ![Ramana's Stats](https://github-readme-stats.vercel.app/api?username=RamanaGR&show_icons=true&theme=tokyonight&hide_border=true)
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamanaGR&layout=compact&theme=tokyonight&hide_border=true)
 
+</div>
