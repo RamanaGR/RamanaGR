@@ -36,40 +36,19 @@ I architect enterprise-grade AI systems, focusing on **High-Precision RAG** for 
 <br/>
 [![Wipro](https://img.shields.io/badge/Wipro-Developer_Analyst_I_/_MLOps-005128?style=for-the-badge&logo=wipro&logoColor=white)](https://www.linkedin.com/in/ramana-gangarao/)
 <br/>
+
 ---
 
 ### 🚀 Featured AI Projects
 
 #### 🧠 [Knowledge Graph RAG](https://github.com/RamanaGR/knowledge-graph-rag)
-*Advanced RAG system using Graph Databases for multi-step reasoning.*
- **Core Tech:** Neo4j, Python, LangChain, Vector Embeddings.
- **Impact:** Solves the "hallucination" problem in standard RAG by enforcing structural relationships between data entities.
 
 #### 🤖 [LangGraph Agent Engineering](https://github.com/RamanaGR/langgraph-agent-engineering)
-*Production-ready multi-agent workflows with cyclic state management.*
- **Core Tech:** LangGraph, OpenAI/Anthropic, Python.
- **Impact:** Implements complex decision-making loops that allow AI agents to self-correct and iterate on tasks autonomously.
 
 #### 📊 [NL2SQL Agent Pipeline](https://github.com/RamanaGR/nl2sql-agent-pipeline)
-*Natural Language interface for complex database querying.*
- **Core Tech:** SQL, LLM Agents, Prompt Engineering.
- **Impact:** Enables non-technical users to query relational databases using plain English with high schema-mapping accuracy.
 
 #### 🎨 [AI T-Shirt Designer](https://github.com/RamanaGR/ai-tshirt-designer-teamsparsa)
-*End-to-end generative AI engine for custom apparel design.*
- **Core Tech:** Stable Diffusion / DALL-E API, Full-stack Integration.
- **Impact:** Bridges the gap between Creative AI and e-commerce by automating high-fidelity image generation for physical products.
 
 #### 🛠 [AIAgent with LangChain](https://github.com/RamanaGR/AIAgent-with-LangChain)
-*The foundation for autonomous task execution and tool-use.*
- **Core Tech:** LangChain, Tool-Calling, Zero-Shot React Agents.
-
----
-
-
-### 📊 GitHub Insights
-![Ramana's Stats](https://github-readme-stats.vercel.app/api?username=RamanaGR&show_icons=true&theme=tokyonight&hide_border=true)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamanaGR&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
