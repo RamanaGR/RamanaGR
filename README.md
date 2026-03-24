@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hello, I'm Ramana! 👋
+  ### Hello, I'm Ramana! 👋
 
 **AI Engineer | RAG & Agentic AI Specialist**
 
