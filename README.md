@@ -2,25 +2,26 @@
 
   ### Hello, I'm Ramana! 👋
 
-**AI Engineer | RAG & Agentic AI Specialist**
+**Lead AI & Software Engineer | Agentic AI & LLM Evaluation Specialist**
 
-I architect enterprise-grade AI systems, focusing on **High-Precision RAG** for legal/healthcare data and **Autonomous Agent Swarms** for workforce automation. Currently, I am optimizing document intelligence pipelines at Optum.
+I architect enterprise-grade AI systems, focusing on **LLM Observability**, **Automated Evaluation (LLM-as-a-Judge)**, and **Stateful Agent Swarms**. Currently, I am co-developing an AI agent governance platform at Synechron for Wells Fargo.
 
 ### 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramana-gangarao)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ramanagr.github.io/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramanagangarao04@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gangaraoramana0404@gmail.com)
 
 ---
 
 ### 🛠 Technical Toolbox
 
-**AI & Data:**
-![RAG](https://img.shields.io/badge/RAG-Systems-blue?style=flat-square) 
+**AI & Backend Ecosystem:**
+![LLM Evaluation](https://img.shields.io/badge/LLM--as--a--Judge-DeepEval-purple?style=flat-square)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-LangGraph-darkgreen?style=flat-square)
 ![VectorDB](https://img.shields.io/badge/Milvus-Vector_DB-green?style=flat-square)
 ![GraphDB](https://img.shields.io/badge/Neo4j-Graph_DB-008CC1?style=flat-square)
+![Event-Driven](https://img.shields.io/badge/Apache_Kafka-Backend-black?style=flat-square&logo=apachekafka)
 
 **Cloud & DevOps:**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -31,18 +32,20 @@ I architect enterprise-grade AI systems, focusing on **High-Precision RAG** for 
 ---
 ### 💼 Career Journey
 
-[![Optum](https://img.shields.io/badge/Optum-AI_Engineer-E87722?style=for-the-badge&logo=unh&logoColor=white)](https://www.linkedin.com/in/ramana-gangarao/)
+[![Synechron](https://img.shields.io/badge/Synechron-Lead_AI_&_Software_Engineer-00e676?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.linkedin.com/in/ramana-gangarao/)
 <br/>
-[![Innovapath](https://img.shields.io/badge/Innovapath-AI_Engineer-0078D4?style=for-the-badge&logo=robot&logoColor=white)](https://www.linkedin.com/in/ramana-gangarao/)
+[![Innovapath](https://img.shields.io/badge/Innovapath_/_Optum-AI_Engineer-E87722?style=for-the-badge&logo=unh&logoColor=white)](https://www.linkedin.com/in/ramana-gangarao/)
 <br/>
-[![Wipro](https://img.shields.io/badge/Wipro-Developer_Analyst_I_/_MLOps-005128?style=for-the-badge&logo=wipro&logoColor=white)](https://www.linkedin.com/in/ramana-gangarao/)
+[![Atlantis University](https://img.shields.io/badge/Atlantis_University-Graduate_AI_Research_Assistant-0078D4?style=for-the-badge&logo=openai&logoColor=white)](https://www.linkedin.com/in/ramana-gangarao/)
+<br/>
+[![Wipro](https://img.shields.io/badge/Wipro-Software_Developer_/_MLOps-005128?style=for-the-badge&logo=wipro&logoColor=white)](https://www.linkedin.com/in/ramana-gangarao/)
 <br/>
 
 ---
 
 ### 🚀 Featured AI Projects
 
-#### 🧠 [Knowledge Graph RAG](https://github.com/RamanaGR/knowledge-graph-rag)
+#### 🧠 [Knowledge Graph RAG (ContractAI)](https://github.com/RamanaGR/contract-agentic-ecosystem)
 
 #### 🤖 [LangGraph Agent Engineering](https://github.com/RamanaGR/langgraph-agent-engineering)
 
